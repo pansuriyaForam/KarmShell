@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-06-12T14:42:59.869746",
+    "time": "14:42:59",
+    "date": "2026-06-12",
+    "day_of_week": "Friday",
+    "name": "Foram",
+    "battery": null,
+    "wifi": "Shyam",
+    "event": "boot_greeting"
+  }
+]

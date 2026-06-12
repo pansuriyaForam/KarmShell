@@ -1,0 +1,21 @@
+{
+  "name": "Foram",
+  "use_voice": true,
+  "voice_preference": "female",
+  "randomize_voice": false,
+
+  "greeting": {
+    "speak_battery": true,
+    "speak_wifi": true,
+    "speak_bluetooth": true,
+    "speak_charging_status": true
+  },
+
+  "daily_goals": {
+    "leetcode": 3,
+    "codeforces": 1
+  },
+
+  "quotes": true,
+  "pixel_art": true
+}
